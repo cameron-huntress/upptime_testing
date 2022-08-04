@@ -22,17 +22,19 @@
     "url": "https://huntress.io",
     "icon": "https://favicons.githubusercontent.com/huntress.io",
     "slug": "huntress-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 360,
-    "timeWeek": 240,
-    "timeMonth": 238,
-    "timeYear": 238,
-    "dailyMinutesDown": {}
+    "time": 228,
+    "timeDay": 217,
+    "timeWeek": 219,
+    "timeMonth": 228,
+    "timeYear": 228,
+    "dailyMinutesDown": {
+      "2022-08-04": 0
+    }
   }
 ]
