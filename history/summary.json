@@ -2,7 +2,7 @@
   {
     "name": "Huntress.com",
     "url": "https://huntress.com",
-    "icon": "https://favicons.githubusercontent.com/huntress.com",
+    "icon": "https://icons.duckduckgo.com/ip3/huntress.com.ico",
     "slug": "huntress-com",
     "status": "up",
     "uptime": "100.00%",
@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 410,
-    "timeDay": 623,
-    "timeWeek": 438,
-    "timeMonth": 372,
-    "timeYear": 410,
+    "time": 414,
+    "timeDay": 675,
+    "timeWeek": 473,
+    "timeMonth": 386,
+    "timeYear": 414,
     "dailyMinutesDown": {}
   },
   {
     "name": "Huntress Portal",
     "url": "https://huntress.io",
-    "icon": "https://favicons.githubusercontent.com/huntress.io",
+    "icon": "https://icons.duckduckgo.com/ip3/huntress.io.ico",
     "slug": "huntress-portal",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 315,
-    "timeWeek": 237,
+    "time": 204,
+    "timeDay": 343,
+    "timeWeek": 253,
     "timeMonth": 205,
-    "timeYear": 202,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   }
 ]
