@@ -33,6 +33,8 @@
     "timeWeek": 120,
     "timeMonth": 200,
     "timeYear": 201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-18": 0
+    }
   }
 ]
