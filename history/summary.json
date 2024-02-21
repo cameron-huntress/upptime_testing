@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 392,
-    "timeDay": 174,
-    "timeWeek": 671,
-    "timeMonth": 484,
-    "timeYear": 391,
+    "timeDay": 688,
+    "timeWeek": 738,
+    "timeMonth": 482,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2023-12-28": 16
     }
@@ -26,17 +26,15 @@
     "slug": "huntress-portal",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 69,
-    "timeWeek": 186,
-    "timeMonth": 188,
-    "timeYear": 188,
-    "dailyMinutesDown": {
-      "2024-02-20": 9
-    }
+    "timeDay": 157,
+    "timeWeek": 191,
+    "timeMonth": 187,
+    "timeYear": 189,
+    "dailyMinutesDown": {}
   }
 ]
