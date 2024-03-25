@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/huntress.com.ico",
     "slug": "huntress-com",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 390,
-    "timeDay": 279,
-    "timeWeek": 444,
-    "timeMonth": 393,
+    "timeDay": 274,
+    "timeWeek": 407,
+    "timeMonth": 387,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2023-12-28": 16
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 57,
-    "timeWeek": 217,
-    "timeMonth": 171,
-    "timeYear": 187,
+    "time": 188,
+    "timeDay": 37,
+    "timeWeek": 165,
+    "timeMonth": 167,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   }
 ]
