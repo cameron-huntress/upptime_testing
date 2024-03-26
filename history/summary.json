@@ -24,17 +24,19 @@
     "url": "https://huntress.io",
     "icon": "https://icons.duckduckgo.com/ip3/huntress.io.ico",
     "slug": "huntress-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 159,
-    "timeWeek": 178,
-    "timeMonth": 167,
-    "timeYear": 186,
-    "dailyMinutesDown": {}
+    "time": 215,
+    "timeDay": 7031,
+    "timeWeek": 1894,
+    "timeMonth": 624,
+    "timeYear": 224,
+    "dailyMinutesDown": {
+      "2024-03-26": 0
+    }
   }
 ]
