@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 448,
-    "timeWeek": 430,
-    "timeMonth": 389,
-    "timeYear": 395,
+    "time": 389,
+    "timeDay": 212,
+    "timeWeek": 433,
+    "timeMonth": 378,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2023-12-28": 16
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/huntress.io.ico",
     "slug": "huntress-portal",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "61.75%",
-    "uptimeWeek": "94.54%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "99.90%",
-    "time": 216,
-    "timeDay": 1988,
-    "timeWeek": 1214,
-    "timeMonth": 572,
+    "uptime": "99.89%",
+    "uptimeDay": "35.13%",
+    "uptimeWeek": "90.73%",
+    "uptimeMonth": "97.87%",
+    "uptimeYear": "99.82%",
+    "time": 215,
+    "timeDay": 1977,
+    "timeWeek": 1201,
+    "timeMonth": 569,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-03-26": 551
+      "2024-03-27": 36,
+      "2024-03-26": 899
     }
   }
 ]
