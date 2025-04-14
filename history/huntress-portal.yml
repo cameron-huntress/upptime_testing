@@ -1,7 +1,7 @@
 url: https://huntress.io
-status: up
-code: 200
-responseTime: 329
-lastUpdated: 2025-04-13T23:16:20.476Z
+status: down
+code: 503
+responseTime: 75
+lastUpdated: 2025-04-14T05:54:55.049Z
 startTime: 2022-07-21T17:58:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
